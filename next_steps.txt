@@ -2,7 +2,7 @@ What next steps should Netflix take in creating new shows/movies and adding exis
 
 When creating new shows/movies and adding existing shows/movies, Netflix should focus more on movies than shows because movies are more popular. 
 
-When creating new shows/movies, Netflix should hire the following the directors, who are the top 5 directors based on the given data set:
+When creating new shows/movies, Netflix should hire the following directors, who are the top 5 directors based on the given data set:
 1. Raúl Campos, Jan Suter
 2. Marcus Raboy
 3. Jay Karas
