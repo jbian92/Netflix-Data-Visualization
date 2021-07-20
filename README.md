@@ -1,5 +1,5 @@
 # Netflix Data Visualization
-This data visualization was created during Execute Big's Tech Roulette Week 3. Using Python Pyplot and a dataset that includes information about all TV shows and movies available on Netflix as of 2019, I created 3 visualizations to help determine what types of shows/movies Netflix should create/add to make the most money.
+This data visualization was created during Execute Big's Tech Roulette Week 3, in which I learned the basics of data visualization. Using Python Pyplot and a dataset that includes information about all TV shows and movies available on Netflix as of 2019, I created 3 visualizations to help determine what types of shows/movies Netflix should create/add to make the most money.
 
 ## What is Data Visualization?
 Data visualization is a powerful tool that can make complicated and large amounts of data appealing and understandable to non-technical people by portraying overall trends and patterns through graphs. 
